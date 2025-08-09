@@ -23,9 +23,10 @@ pip install nltk
 
 ```
 ## Download the NLTK resources (run once)
-
+```
 import nltk
 nltk.download('punkt')
+```
 ## How to Run
 
 1 Clone this repository
