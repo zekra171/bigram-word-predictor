@@ -59,13 +59,6 @@ Predicted next word: am
 Other suggestions: ['have']
 
 
-نسخ
-تحرير
-
-نسخ
-تحرير
-
-نسخ
 تحرير
 
 
